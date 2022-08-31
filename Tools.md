@@ -1,4 +1,4 @@
-### Tools
+### Tools for DevOps
 
 **What you will need:**
 1. Text Editor: sublime or vscode
