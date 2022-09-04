@@ -1,8 +1,9 @@
 ### Tools for DevOps
 
 **What you will need:**
-1. Text Editor: sublime or vscode
+1. Text Editor: sublime or vscode (preferred)
 2. Git
+Install following for MAC and Windowshttps://roadmap.sh/devops
 3. Accounts:
    1. github or any repository
    2. [dockerhub](https://hub.docker.com/)
@@ -11,6 +12,8 @@
 4. Domain (GoDaddy or any preferred domain providers)
 
 ```Markdown
+One way of setting up Local Environment:
+
 Install following for MAC and Windows
 note: run powershell as admin for Windows machine
 
@@ -26,3 +29,5 @@ maven
 awscli
 
 ```
+
+Other resources: [reyesdf notion page](https://reyesdf.notion.site/DevOps-RoadMap-and-Resources-de4ce2eb3cec4e21a04acf5c0bc3b2ed)
