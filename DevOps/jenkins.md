@@ -1,13 +1,13 @@
 # BASIC SYNTAX
 
+## What is a Jenkins Pipeline
 
-### What is a Jenkins Pipeline
 A `pipeline` is a collection of jobs that brings software from vesrion contril into end-users by automation. Used in **Continuous Delivery** in software development workflow.
 
 Uses `Groovy DSL` to write scripts for automation.
 
+## Pipeline example
 
-### Pipeline example
 *pipeline*: must be top level , base structure of script
 *agent*: where to execute, (available jenkins agent)*stages*: where work happens / different stages of pipeline
 
